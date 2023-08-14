@@ -11,3 +11,6 @@ input{
 input.submit:hover{
 background-color: blueviolet;
 }
+p{
+    color: red;
+}
